@@ -65,7 +65,7 @@ interests:
 ## 📊 GitHub Metrics & Activity
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics & Activity Dashboard" width="100%" />
+  <img src="./metrics.svg" alt="GitHub Metrics & Activity Dashboard" width="100%" />
 </div>
 
 ---
