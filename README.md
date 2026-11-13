@@ -42,66 +42,39 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-581C87?style=for-the-badge&labelColor=09090B" />
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-581C87?style=for-the-badge&amp;labelColor=09090B" />
 
   <br/><br/>
 
   <p>
-    Passionate about engineering <strong>scalable, reliable, and maintainable software systems</strong>.
-    Primarily focused on <strong>Backend Engineering, Microservices, and Distributed Systems</strong>,
-    with experience exploring modern full-stack development.
+    I'm a <strong>Software Engineer</strong> passionate about designing and building
+    <strong>scalable, reliable, and maintainable software systems</strong>.<br/>
+    My primary focus is <strong>Backend Engineering with Java and Spring Boot</strong>,
+    exploring <strong>Microservices Architecture and Distributed Systems</strong>,<br/>
+    while also building modern web applications using <strong>React and Next.js</strong>.<br/>
+    I'm particularly interested in <strong>System Design, Event-Driven Architecture,
+    Cloud Native Engineering, and Software Architecture</strong>.
   </p>
-
-</div>
-
-<br/>
-
-### ☕ Backend Engineering
-
-Building robust backend applications and RESTful APIs using Java and Spring Boot, with an emphasis on clean architecture, maintainability, and performance.
-
-<img src="https://img.shields.io/badge/Java-09090B?style=flat-square&logo=openjdk&logoColor=F89820" />
-<img src="https://img.shields.io/badge/Spring_Boot-09090B?style=flat-square&logo=springboot&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/REST_APIs-09090B?style=flat-square&logoColor=38BDF8" />
-
-<br/>
-
-### 🔗 Microservices & Distributed Systems
-
-Exploring distributed architectures, event-driven communication, asynchronous messaging, system design, and building resilient services that scale.
-
-<img src="https://img.shields.io/badge/Microservices-09090B?style=flat-square&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Apache_Kafka-09090B?style=flat-square&logo=apachekafka&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/RabbitMQ-09090B?style=flat-square&logo=rabbitmq&logoColor=FF6600" />
-
-<br/>
-
-### ⚛️ Full-Stack Development
-
-Developing modern web applications with responsive interfaces and seamless user experiences using React, Next.js, and TypeScript.
-
-<img src="https://img.shields.io/badge/React-09090B?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TypeScript-09090B?style=flat-square&logo=typescript&logoColor=3178C6" />
-
-<br/>
-
-<div align="center">
 
   <br/>
 
-  <strong>INTERESTED IN</strong>
+  <img src="https://img.shields.io/badge/Java-09090B?style=flat-square&amp;logo=openjdk&amp;logoColor=F89820" />
+  <img src="https://img.shields.io/badge/Spring_Boot-09090B?style=flat-square&amp;logo=springboot&amp;logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Microservices-09090B?style=flat-square&amp;logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-09090B?style=flat-square&amp;logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/React-09090B?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/System_Design-111827?style=flat-square&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Cloud_Native-111827?style=flat-square&logo=kubernetes&logoColor=326CE5" />
-  <img src="https://img.shields.io/badge/Software_Architecture-111827?style=flat-square&logoColor=C084FC" />
-  <img src="https://img.shields.io/badge/Observability-111827?style=flat-square&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/System_Design-111827?style=flat-square&amp;logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Event--Driven_Architecture-111827?style=flat-square&amp;logo=apachekafka&amp;logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Cloud_Native-111827?style=flat-square&amp;logo=kubernetes&amp;logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/Software_Architecture-111827?style=flat-square&amp;logoColor=C084FC" />
 
   <br/><br/>
 
-  <i>Engineering systems that scale, perform, and last.</i>
+  <i>"Building scalable systems through thoughtful engineering and continuous learning."</i>
 
 </div>
 
