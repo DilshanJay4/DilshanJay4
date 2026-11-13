@@ -40,17 +40,65 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Dilshan Jayawardana
-role: Software Engineer
-focus: Backend Engineering & Distributed Systems
-interests:
-  - Microservices Architecture
-  - Event-Driven Systems
-  - System Design
-  - Cloud Native Engineering
-  - Software Craftsmanship
-```
+<div align="center">
+
+  <p>
+    I'm a <strong>Software Engineer</strong> passionate about building
+    scalable applications, designing distributed architectures, and
+    engineering reliable software across the full stack.
+  </p>
+
+  <br/>
+
+  <table>
+    <tr>
+      <td align="center" width="33%" valign="top">
+        <br/>
+        <img src="https://img.shields.io/badge/Backend-Engineering-0F172A?style=for-the-badge&logo=java&logoColor=ED8B00" />
+        <br/><br/>
+        <code>Java</code> · <code>Spring Boot</code><br/>
+        <code>REST APIs</code> · <code>Microservices</code><br/>
+        <code>Clean Architecture</code>
+        <br/><br/>
+      </td>
+      <td align="center" width="33%" valign="top">
+        <br/>
+        <img src="https://img.shields.io/badge/Distributed-Systems-0F172A?style=for-the-badge&logo=apachekafka&logoColor=231F20" />
+        <br/><br/>
+        <code>Microservices Architecture</code><br/>
+        <code>Event-Driven Systems</code><br/>
+        <code>Messaging &amp; Scalability</code>
+        <br/><br/>
+      </td>
+      <td align="center" width="33%" valign="top">
+        <br/>
+        <img src="https://img.shields.io/badge/Frontend-Engineering-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <br/><br/>
+        <code>React</code> · <code>Next.js</code><br/>
+        <code>TypeScript</code> · <code>JavaScript</code><br/>
+        <code>Modern Web Apps</code>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <p>
+    <strong>🎯 Areas of Interest</strong><br/>
+    <code>System Design</code> &nbsp;•&nbsp;
+    <code>Cloud Native Engineering</code> &nbsp;•&nbsp;
+    <code>Software Architecture</code> &nbsp;•&nbsp;
+    <code>Performance &amp; Reliability</code>
+  </p>
+
+  <br/>
+
+  <p>
+    <em>"Building scalable systems, one well-engineered solution at a time."</em>
+  </p>
+
+</div>
 
 ---
 
