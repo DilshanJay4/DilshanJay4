@@ -42,34 +42,66 @@
 
 <div align="center">
 
-<p>
-  I'm a <strong>Software Engineer</strong> passionate about building scalable applications,
-  designing distributed architectures, and engineering reliable software across the full stack.
-</p>
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-581C87?style=for-the-badge&labelColor=09090B" />
+
+  <br/><br/>
+
+  <p>
+    Passionate about engineering <strong>scalable, reliable, and maintainable software systems</strong>.
+    Primarily focused on <strong>Backend Engineering, Microservices, and Distributed Systems</strong>,
+    with experience exploring modern full-stack development.
+  </p>
+
+</div>
 
 <br/>
 
-**☕ `backend_engineering`**<br/>
-`Java` &nbsp;•&nbsp; `Spring Boot` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Microservices` &nbsp;•&nbsp; `Clean Architecture`
+### ☕ Backend Engineering
 
-<br/><br/>
+Building robust backend applications and RESTful APIs using Java and Spring Boot, with an emphasis on clean architecture, maintainability, and performance.
 
-**🔗 `distributed_systems`**<br/>
-`Microservices Architecture` &nbsp;•&nbsp; `Event-Driven Systems` &nbsp;•&nbsp; `Messaging & Scalability`
+<img src="https://img.shields.io/badge/Java-09090B?style=flat-square&logo=openjdk&logoColor=F89820" />
+<img src="https://img.shields.io/badge/Spring_Boot-09090B?style=flat-square&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/REST_APIs-09090B?style=flat-square&logoColor=38BDF8" />
 
-<br/><br/>
+<br/>
 
-**⚛️ `frontend_engineering`**<br/>
-`React` &nbsp;•&nbsp; `Next.js` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `Modern Web Applications`
+### 🔗 Microservices & Distributed Systems
 
-<br/><br/>
+Exploring distributed architectures, event-driven communication, asynchronous messaging, system design, and building resilient services that scale.
 
-**🎯 `areas_of_interest`**<br/>
-`System Design` &nbsp;•&nbsp; `Cloud Native Engineering` &nbsp;•&nbsp; `Software Architecture` &nbsp;•&nbsp; `Performance & Reliability`
+<img src="https://img.shields.io/badge/Microservices-09090B?style=flat-square&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Apache_Kafka-09090B?style=flat-square&logo=apachekafka&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/RabbitMQ-09090B?style=flat-square&logo=rabbitmq&logoColor=FF6600" />
 
-<br/><br/>
+<br/>
 
-*"Building scalable systems, one well-engineered solution at a time."*
+### ⚛️ Full-Stack Development
+
+Developing modern web applications with responsive interfaces and seamless user experiences using React, Next.js, and TypeScript.
+
+<img src="https://img.shields.io/badge/React-09090B?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/TypeScript-09090B?style=flat-square&logo=typescript&logoColor=3178C6" />
+
+<br/>
+
+<div align="center">
+
+  <br/>
+
+  <strong>INTERESTED IN</strong>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/System_Design-111827?style=flat-square&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Cloud_Native-111827?style=flat-square&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/Software_Architecture-111827?style=flat-square&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/Observability-111827?style=flat-square&logo=grafana&logoColor=F46800" />
+
+  <br/><br/>
+
+  <i>Engineering systems that scale, perform, and last.</i>
 
 </div>
 
