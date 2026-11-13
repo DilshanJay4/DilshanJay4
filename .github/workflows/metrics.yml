@@ -28,9 +28,8 @@ jobs:
           # Output file name in repository root
           filename: github-metrics.svg
 
-          # Theme & Timezone matching your profile
+          # Timezone matching your profile
           config_timezone: Asia/Colombo
-          config_theme: dark
           config_padding: 0, 8
 
           # Base Metrics: Commits, PRs, Issues, Stars & Octocat ring
