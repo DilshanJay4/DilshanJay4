@@ -88,6 +88,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats-8zeb.vercel.app/api?username=DilshanJay4&amp;show_icons=true&amp;theme=holi&amp;rank_icon=github&amp;include_all_commits=true" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=DilshanJay4&amp;theme=holi-theme" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats-8zeb.vercel.app/api/top-langs/?username=DilshanJay4&amp;layout=compact&amp;theme=holi" alt="Top Languages" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🤝 Let's Connect
