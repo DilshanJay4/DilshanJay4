@@ -20,13 +20,13 @@
 <a href="https://dilshan.sbs">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
 </a>
-<a href="https://www.linkedin.com/in/dilshan-jayawardana/">
+<a href="https://www.linkedin.com/in/dilshanjayawardana/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/DilshanJay4">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:dilshanjayawardana@gmail.com">
+<a href="mailto:djjayawardana18@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -115,8 +115,8 @@
 *Building reliable software, one commit at a time.*
 
 <a href="https://dilshan.sbs">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/dilshan-jayawardana/">LinkedIn</a> ·
-<a href="mailto:dilshanjayawardana@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/dilshanjayawardana/">LinkedIn</a> ·
+<a href="mailto:djjayawardana18@gmail.com">Email</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,65:09090B,100:581C87&amp;height=100&amp;section=footer" width="100%" />
 
